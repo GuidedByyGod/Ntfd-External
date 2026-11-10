@@ -110,7 +110,7 @@ flowchart TD
     J --> K[AES-256-CBC decrypt]
     K --> L{Modo de carga}
     L -- padrao --> M[Manual map]
-    L -- --temp --> N[LoadLibrary + temp]
+    L -- modo temp --> N[LoadLibrary + temp]
     M --> O[Relocs + imports + .pdata]
     O --> P[LdrpHandleTlsData]
     P --> Q[TLS callbacks + DllMain]

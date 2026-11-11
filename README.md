@@ -14,7 +14,7 @@
 | Payload | C++ / DLL, D3D11 + ImGui |
 | Builds citadas | b3258 e b3889 (offsets mudam entre builds) |
 | Interface | Overlay próprio + menu Web local |
-| Licença | Nenhuma definida (todos os direitos reservados) |
+| Licença | Proprietária — todos os direitos reservados ([LICENSE](LICENSE)) |
 
 O projeto dependia de um backend remoto para autenticação, perfil, configuração e
 entrega do payload. Esse backend não faz parte deste repositório e não é

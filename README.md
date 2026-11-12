@@ -7,6 +7,30 @@
 
 ---
 
+## Preview
+
+> Capturas de tela do projeto arquivado. As imagens são mantidas apenas como registro histórico/técnico, não como tutorial de uso.
+
+| Menu Aimbot | Menu Visuals |
+|---|---|
+| ![Menu Aimbot](docs/screenshots/aimbot.png) | ![Menu Visuals](docs/screenshots/visuals.png) |
+
+| Menu Chams | ESP Preview (Web) |
+|---|---|
+| ![Menu Chams](docs/screenshots/chams.png) | ![ESP Preview](docs/screenshots/esp-preview.png) |
+
+| Web Menu | Settings — Interface |
+|---|---|
+| ![Web Menu](docs/screenshots/web-menu.png) | ![Settings Interface](docs/screenshots/settings-interface.png) |
+
+| Server Info | Spotify |
+|---|---|
+| ![Server Info](docs/screenshots/server-info.png) | ![Spotify](docs/screenshots/spotify.png) |
+
+Outras capturas disponíveis em [`docs/screenshots`](docs/screenshots): aparência, configurações e Web Menu.
+
+---
+
 ## Status
 
 | Plataforma | Windows 10/11 x64 |
@@ -80,7 +104,7 @@ aplicando patches em runtime.
 
 ```text
 Ntfd External/
-├─ assets/                  Recursos visuais e ícones usados pelo overlay
+├─ docs/screenshots/         Capturas de tela do projeto
 ├─ backup_20261030_230542/  Backup antigo do projeto (não é a versão principal)
 ├─ DiscordProxy/            Worker/proxy para avatar do Discord
 ├─ docs/                    Notas de segurança, assinatura e roadmap
